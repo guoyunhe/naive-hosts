@@ -1,13 +1,13 @@
 //
-//  naive_hostsUITests.swift
-//  naive-hostsUITests
+//  NaiveHostsUITests.swift
+//  NaiveHostsUITests
 //
 //  Created by Guo Yunhe on 2024/3/13.
 //
 
 import XCTest
 
-final class naive_hostsUITests: XCTestCase {
+final class NaiveHostsUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

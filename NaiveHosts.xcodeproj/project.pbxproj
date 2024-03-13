@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BC0548CF2BA1A47B0092BB2F /* naive_hostsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0548CE2BA1A47B0092BB2F /* naive_hostsApp.swift */; };
-		BC0548D12BA1A47B0092BB2F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0548D02BA1A47B0092BB2F /* ContentView.swift */; };
-		BC0548D32BA1A47B0092BB2F /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0548D22BA1A47B0092BB2F /* Item.swift */; };
-		BC0548D52BA1A47C0092BB2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC0548D42BA1A47C0092BB2F /* Assets.xcassets */; };
-		BC0548D82BA1A47C0092BB2F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC0548D72BA1A47C0092BB2F /* Preview Assets.xcassets */; };
-		BC0548E32BA1A47C0092BB2F /* naive_hostsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0548E22BA1A47C0092BB2F /* naive_hostsTests.swift */; };
-		BC0548ED2BA1A47C0092BB2F /* naive_hostsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0548EC2BA1A47C0092BB2F /* naive_hostsUITests.swift */; };
-		BC0548EF2BA1A47C0092BB2F /* naive_hostsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0548EE2BA1A47C0092BB2F /* naive_hostsUITestsLaunchTests.swift */; };
+		BC671B072BA1AAD400F9E4B2 /* NaiveHostsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC671B062BA1AAD400F9E4B2 /* NaiveHostsApp.swift */; };
+		BC671B092BA1AAD400F9E4B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC671B082BA1AAD400F9E4B2 /* ContentView.swift */; };
+		BC671B0B2BA1AAD400F9E4B2 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC671B0A2BA1AAD400F9E4B2 /* Item.swift */; };
+		BC671B0D2BA1AAD400F9E4B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC671B0C2BA1AAD400F9E4B2 /* Assets.xcassets */; };
+		BC671B102BA1AAD400F9E4B2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC671B0F2BA1AAD400F9E4B2 /* Preview Assets.xcassets */; };
+		BC671B1B2BA1AAD400F9E4B2 /* NaiveHostsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC671B1A2BA1AAD400F9E4B2 /* NaiveHostsTests.swift */; };
+		BC671B252BA1AAD400F9E4B2 /* NaiveHostsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC671B242BA1AAD400F9E4B2 /* NaiveHostsUITests.swift */; };
+		BC671B272BA1AAD400F9E4B2 /* NaiveHostsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC671B262BA1AAD400F9E4B2 /* NaiveHostsUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BC0548DF2BA1A47C0092BB2F /* PBXContainerItemProxy */ = {
+		BC671B172BA1AAD400F9E4B2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BC0548C32BA1A47B0092BB2F /* Project object */;
+			containerPortal = BC671AFB2BA1AAD400F9E4B2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BC0548CA2BA1A47B0092BB2F;
-			remoteInfo = "naive-hosts";
+			remoteGlobalIDString = BC671B022BA1AAD400F9E4B2;
+			remoteInfo = NaiveHosts;
 		};
-		BC0548E92BA1A47C0092BB2F /* PBXContainerItemProxy */ = {
+		BC671B212BA1AAD400F9E4B2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BC0548C32BA1A47B0092BB2F /* Project object */;
+			containerPortal = BC671AFB2BA1AAD400F9E4B2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BC0548CA2BA1A47B0092BB2F;
-			remoteInfo = "naive-hosts";
+			remoteGlobalIDString = BC671B022BA1AAD400F9E4B2;
+			remoteInfo = NaiveHosts;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BC0548CB2BA1A47B0092BB2F /* naive-hosts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "naive-hosts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC0548CE2BA1A47B0092BB2F /* naive_hostsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naive_hostsApp.swift; sourceTree = "<group>"; };
-		BC0548D02BA1A47B0092BB2F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		BC0548D22BA1A47B0092BB2F /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
-		BC0548D42BA1A47C0092BB2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BC0548D72BA1A47C0092BB2F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		BC0548D92BA1A47C0092BB2F /* naive_hosts.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = naive_hosts.entitlements; sourceTree = "<group>"; };
-		BC0548DE2BA1A47C0092BB2F /* naive-hostsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "naive-hostsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC0548E22BA1A47C0092BB2F /* naive_hostsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naive_hostsTests.swift; sourceTree = "<group>"; };
-		BC0548E82BA1A47C0092BB2F /* naive-hostsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "naive-hostsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC0548EC2BA1A47C0092BB2F /* naive_hostsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naive_hostsUITests.swift; sourceTree = "<group>"; };
-		BC0548EE2BA1A47C0092BB2F /* naive_hostsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naive_hostsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BC671B032BA1AAD400F9E4B2 /* NaiveHosts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NaiveHosts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC671B062BA1AAD400F9E4B2 /* NaiveHostsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaiveHostsApp.swift; sourceTree = "<group>"; };
+		BC671B082BA1AAD400F9E4B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BC671B0A2BA1AAD400F9E4B2 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		BC671B0C2BA1AAD400F9E4B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BC671B0F2BA1AAD400F9E4B2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BC671B112BA1AAD400F9E4B2 /* NaiveHosts.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NaiveHosts.entitlements; sourceTree = "<group>"; };
+		BC671B162BA1AAD400F9E4B2 /* NaiveHostsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NaiveHostsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC671B1A2BA1AAD400F9E4B2 /* NaiveHostsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaiveHostsTests.swift; sourceTree = "<group>"; };
+		BC671B202BA1AAD400F9E4B2 /* NaiveHostsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NaiveHostsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC671B242BA1AAD400F9E4B2 /* NaiveHostsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaiveHostsUITests.swift; sourceTree = "<group>"; };
+		BC671B262BA1AAD400F9E4B2 /* NaiveHostsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaiveHostsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BC0548C82BA1A47B0092BB2F /* Frameworks */ = {
+		BC671B002BA1AAD400F9E4B2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BC0548DB2BA1A47C0092BB2F /* Frameworks */ = {
+		BC671B132BA1AAD400F9E4B2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BC0548E52BA1A47C0092BB2F /* Frameworks */ = {
+		BC671B1D2BA1AAD400F9E4B2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,181 +74,182 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BC0548C22BA1A47B0092BB2F = {
+		BC671AFA2BA1AAD400F9E4B2 = {
 			isa = PBXGroup;
 			children = (
-				BC0548CD2BA1A47B0092BB2F /* naive-hosts */,
-				BC0548E12BA1A47C0092BB2F /* naive-hostsTests */,
-				BC0548EB2BA1A47C0092BB2F /* naive-hostsUITests */,
-				BC0548CC2BA1A47B0092BB2F /* Products */,
+				BC671B052BA1AAD400F9E4B2 /* NaiveHosts */,
+				BC671B192BA1AAD400F9E4B2 /* NaiveHostsTests */,
+				BC671B232BA1AAD400F9E4B2 /* NaiveHostsUITests */,
+				BC671B042BA1AAD400F9E4B2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BC0548CC2BA1A47B0092BB2F /* Products */ = {
+		BC671B042BA1AAD400F9E4B2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BC0548CB2BA1A47B0092BB2F /* naive-hosts.app */,
-				BC0548DE2BA1A47C0092BB2F /* naive-hostsTests.xctest */,
-				BC0548E82BA1A47C0092BB2F /* naive-hostsUITests.xctest */,
+				BC671B032BA1AAD400F9E4B2 /* NaiveHosts.app */,
+				BC671B162BA1AAD400F9E4B2 /* NaiveHostsTests.xctest */,
+				BC671B202BA1AAD400F9E4B2 /* NaiveHostsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BC0548CD2BA1A47B0092BB2F /* naive-hosts */ = {
+		BC671B052BA1AAD400F9E4B2 /* NaiveHosts */ = {
 			isa = PBXGroup;
 			children = (
-				BC0548CE2BA1A47B0092BB2F /* naive_hostsApp.swift */,
-				BC0548D02BA1A47B0092BB2F /* ContentView.swift */,
-				BC0548D22BA1A47B0092BB2F /* Item.swift */,
-				BC0548D42BA1A47C0092BB2F /* Assets.xcassets */,
-				BC0548D92BA1A47C0092BB2F /* naive_hosts.entitlements */,
-				BC0548D62BA1A47C0092BB2F /* Preview Content */,
+				BC671B062BA1AAD400F9E4B2 /* NaiveHostsApp.swift */,
+				BC671B082BA1AAD400F9E4B2 /* ContentView.swift */,
+				BC671B0A2BA1AAD400F9E4B2 /* Item.swift */,
+				BC671B0C2BA1AAD400F9E4B2 /* Assets.xcassets */,
+				BC671B112BA1AAD400F9E4B2 /* NaiveHosts.entitlements */,
+				BC671B0E2BA1AAD400F9E4B2 /* Preview Content */,
 			);
-			path = "naive-hosts";
+			path = NaiveHosts;
 			sourceTree = "<group>";
 		};
-		BC0548D62BA1A47C0092BB2F /* Preview Content */ = {
+		BC671B0E2BA1AAD400F9E4B2 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				BC0548D72BA1A47C0092BB2F /* Preview Assets.xcassets */,
+				BC671B0F2BA1AAD400F9E4B2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		BC0548E12BA1A47C0092BB2F /* naive-hostsTests */ = {
+		BC671B192BA1AAD400F9E4B2 /* NaiveHostsTests */ = {
 			isa = PBXGroup;
 			children = (
-				BC0548E22BA1A47C0092BB2F /* naive_hostsTests.swift */,
+				BC671B1A2BA1AAD400F9E4B2 /* NaiveHostsTests.swift */,
 			);
-			path = "naive-hostsTests";
+			path = NaiveHostsTests;
 			sourceTree = "<group>";
 		};
-		BC0548EB2BA1A47C0092BB2F /* naive-hostsUITests */ = {
+		BC671B232BA1AAD400F9E4B2 /* NaiveHostsUITests */ = {
 			isa = PBXGroup;
 			children = (
-				BC0548EC2BA1A47C0092BB2F /* naive_hostsUITests.swift */,
-				BC0548EE2BA1A47C0092BB2F /* naive_hostsUITestsLaunchTests.swift */,
+				BC671B242BA1AAD400F9E4B2 /* NaiveHostsUITests.swift */,
+				BC671B262BA1AAD400F9E4B2 /* NaiveHostsUITestsLaunchTests.swift */,
 			);
-			path = "naive-hostsUITests";
+			path = NaiveHostsUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BC0548CA2BA1A47B0092BB2F /* naive-hosts */ = {
+		BC671B022BA1AAD400F9E4B2 /* NaiveHosts */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC0548F22BA1A47C0092BB2F /* Build configuration list for PBXNativeTarget "naive-hosts" */;
+			buildConfigurationList = BC671B2A2BA1AAD400F9E4B2 /* Build configuration list for PBXNativeTarget "NaiveHosts" */;
 			buildPhases = (
-				BC0548C72BA1A47B0092BB2F /* Sources */,
-				BC0548C82BA1A47B0092BB2F /* Frameworks */,
-				BC0548C92BA1A47B0092BB2F /* Resources */,
+				BC671AFF2BA1AAD400F9E4B2 /* Sources */,
+				BC671B002BA1AAD400F9E4B2 /* Frameworks */,
+				BC671B012BA1AAD400F9E4B2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "naive-hosts";
-			productName = "naive-hosts";
-			productReference = BC0548CB2BA1A47B0092BB2F /* naive-hosts.app */;
+			name = NaiveHosts;
+			productName = NaiveHosts;
+			productReference = BC671B032BA1AAD400F9E4B2 /* NaiveHosts.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BC0548DD2BA1A47C0092BB2F /* naive-hostsTests */ = {
+		BC671B152BA1AAD400F9E4B2 /* NaiveHostsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC0548F52BA1A47C0092BB2F /* Build configuration list for PBXNativeTarget "naive-hostsTests" */;
+			buildConfigurationList = BC671B2D2BA1AAD400F9E4B2 /* Build configuration list for PBXNativeTarget "NaiveHostsTests" */;
 			buildPhases = (
-				BC0548DA2BA1A47C0092BB2F /* Sources */,
-				BC0548DB2BA1A47C0092BB2F /* Frameworks */,
-				BC0548DC2BA1A47C0092BB2F /* Resources */,
+				BC671B122BA1AAD400F9E4B2 /* Sources */,
+				BC671B132BA1AAD400F9E4B2 /* Frameworks */,
+				BC671B142BA1AAD400F9E4B2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BC0548E02BA1A47C0092BB2F /* PBXTargetDependency */,
+				BC671B182BA1AAD400F9E4B2 /* PBXTargetDependency */,
 			);
-			name = "naive-hostsTests";
-			productName = "naive-hostsTests";
-			productReference = BC0548DE2BA1A47C0092BB2F /* naive-hostsTests.xctest */;
+			name = NaiveHostsTests;
+			productName = NaiveHostsTests;
+			productReference = BC671B162BA1AAD400F9E4B2 /* NaiveHostsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BC0548E72BA1A47C0092BB2F /* naive-hostsUITests */ = {
+		BC671B1F2BA1AAD400F9E4B2 /* NaiveHostsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC0548F82BA1A47C0092BB2F /* Build configuration list for PBXNativeTarget "naive-hostsUITests" */;
+			buildConfigurationList = BC671B302BA1AAD400F9E4B2 /* Build configuration list for PBXNativeTarget "NaiveHostsUITests" */;
 			buildPhases = (
-				BC0548E42BA1A47C0092BB2F /* Sources */,
-				BC0548E52BA1A47C0092BB2F /* Frameworks */,
-				BC0548E62BA1A47C0092BB2F /* Resources */,
+				BC671B1C2BA1AAD400F9E4B2 /* Sources */,
+				BC671B1D2BA1AAD400F9E4B2 /* Frameworks */,
+				BC671B1E2BA1AAD400F9E4B2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BC0548EA2BA1A47C0092BB2F /* PBXTargetDependency */,
+				BC671B222BA1AAD400F9E4B2 /* PBXTargetDependency */,
 			);
-			name = "naive-hostsUITests";
-			productName = "naive-hostsUITests";
-			productReference = BC0548E82BA1A47C0092BB2F /* naive-hostsUITests.xctest */;
+			name = NaiveHostsUITests;
+			productName = NaiveHostsUITests;
+			productReference = BC671B202BA1AAD400F9E4B2 /* NaiveHostsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BC0548C32BA1A47B0092BB2F /* Project object */ = {
+		BC671AFB2BA1AAD400F9E4B2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
-					BC0548CA2BA1A47B0092BB2F = {
+					BC671B022BA1AAD400F9E4B2 = {
 						CreatedOnToolsVersion = 15.3;
 					};
-					BC0548DD2BA1A47C0092BB2F = {
+					BC671B152BA1AAD400F9E4B2 = {
 						CreatedOnToolsVersion = 15.3;
-						TestTargetID = BC0548CA2BA1A47B0092BB2F;
+						TestTargetID = BC671B022BA1AAD400F9E4B2;
 					};
-					BC0548E72BA1A47C0092BB2F = {
+					BC671B1F2BA1AAD400F9E4B2 = {
 						CreatedOnToolsVersion = 15.3;
-						TestTargetID = BC0548CA2BA1A47B0092BB2F;
+						TestTargetID = BC671B022BA1AAD400F9E4B2;
 					};
 				};
 			};
-			buildConfigurationList = BC0548C62BA1A47B0092BB2F /* Build configuration list for PBXProject "naive-hosts" */;
+			buildConfigurationList = BC671AFE2BA1AAD400F9E4B2 /* Build configuration list for PBXProject "NaiveHosts" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
-			mainGroup = BC0548C22BA1A47B0092BB2F;
-			productRefGroup = BC0548CC2BA1A47B0092BB2F /* Products */;
+			mainGroup = BC671AFA2BA1AAD400F9E4B2;
+			productRefGroup = BC671B042BA1AAD400F9E4B2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BC0548CA2BA1A47B0092BB2F /* naive-hosts */,
-				BC0548DD2BA1A47C0092BB2F /* naive-hostsTests */,
-				BC0548E72BA1A47C0092BB2F /* naive-hostsUITests */,
+				BC671B022BA1AAD400F9E4B2 /* NaiveHosts */,
+				BC671B152BA1AAD400F9E4B2 /* NaiveHostsTests */,
+				BC671B1F2BA1AAD400F9E4B2 /* NaiveHostsUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BC0548C92BA1A47B0092BB2F /* Resources */ = {
+		BC671B012BA1AAD400F9E4B2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC0548D82BA1A47C0092BB2F /* Preview Assets.xcassets in Resources */,
-				BC0548D52BA1A47C0092BB2F /* Assets.xcassets in Resources */,
+				BC671B102BA1AAD400F9E4B2 /* Preview Assets.xcassets in Resources */,
+				BC671B0D2BA1AAD400F9E4B2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BC0548DC2BA1A47C0092BB2F /* Resources */ = {
+		BC671B142BA1AAD400F9E4B2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BC0548E62BA1A47C0092BB2F /* Resources */ = {
+		BC671B1E2BA1AAD400F9E4B2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -258,50 +259,50 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BC0548C72BA1A47B0092BB2F /* Sources */ = {
+		BC671AFF2BA1AAD400F9E4B2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC0548D12BA1A47B0092BB2F /* ContentView.swift in Sources */,
-				BC0548D32BA1A47B0092BB2F /* Item.swift in Sources */,
-				BC0548CF2BA1A47B0092BB2F /* naive_hostsApp.swift in Sources */,
+				BC671B092BA1AAD400F9E4B2 /* ContentView.swift in Sources */,
+				BC671B0B2BA1AAD400F9E4B2 /* Item.swift in Sources */,
+				BC671B072BA1AAD400F9E4B2 /* NaiveHostsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BC0548DA2BA1A47C0092BB2F /* Sources */ = {
+		BC671B122BA1AAD400F9E4B2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC0548E32BA1A47C0092BB2F /* naive_hostsTests.swift in Sources */,
+				BC671B1B2BA1AAD400F9E4B2 /* NaiveHostsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BC0548E42BA1A47C0092BB2F /* Sources */ = {
+		BC671B1C2BA1AAD400F9E4B2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC0548EF2BA1A47C0092BB2F /* naive_hostsUITestsLaunchTests.swift in Sources */,
-				BC0548ED2BA1A47C0092BB2F /* naive_hostsUITests.swift in Sources */,
+				BC671B272BA1AAD400F9E4B2 /* NaiveHostsUITestsLaunchTests.swift in Sources */,
+				BC671B252BA1AAD400F9E4B2 /* NaiveHostsUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BC0548E02BA1A47C0092BB2F /* PBXTargetDependency */ = {
+		BC671B182BA1AAD400F9E4B2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BC0548CA2BA1A47B0092BB2F /* naive-hosts */;
-			targetProxy = BC0548DF2BA1A47C0092BB2F /* PBXContainerItemProxy */;
+			target = BC671B022BA1AAD400F9E4B2 /* NaiveHosts */;
+			targetProxy = BC671B172BA1AAD400F9E4B2 /* PBXContainerItemProxy */;
 		};
-		BC0548EA2BA1A47C0092BB2F /* PBXTargetDependency */ = {
+		BC671B222BA1AAD400F9E4B2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BC0548CA2BA1A47B0092BB2F /* naive-hosts */;
-			targetProxy = BC0548E92BA1A47C0092BB2F /* PBXContainerItemProxy */;
+			target = BC671B022BA1AAD400F9E4B2 /* NaiveHosts */;
+			targetProxy = BC671B212BA1AAD400F9E4B2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		BC0548F02BA1A47C0092BB2F /* Debug */ = {
+		BC671B282BA1AAD400F9E4B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -364,7 +365,7 @@
 			};
 			name = Debug;
 		};
-		BC0548F12BA1A47C0092BB2F /* Release */ = {
+		BC671B292BA1AAD400F9E4B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -419,16 +420,16 @@
 			};
 			name = Release;
 		};
-		BC0548F32BA1A47C0092BB2F /* Debug */ = {
+		BC671B2B2BA1AAD400F9E4B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "naive-hosts/naive_hosts.entitlements";
+				CODE_SIGN_ENTITLEMENTS = NaiveHosts/NaiveHosts.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"naive-hosts/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"NaiveHosts/Preview Content\"";
 				DEVELOPMENT_TEAM = 6W5AD72S94;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -440,23 +441,23 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.guoyunhe.naive-hosts";
+				PRODUCT_BUNDLE_IDENTIFIER = me.guoyunhe.NaiveHosts;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		BC0548F42BA1A47C0092BB2F /* Release */ = {
+		BC671B2C2BA1AAD400F9E4B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "naive-hosts/naive_hosts.entitlements";
+				CODE_SIGN_ENTITLEMENTS = NaiveHosts/NaiveHosts.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"naive-hosts/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"NaiveHosts/Preview Content\"";
 				DEVELOPMENT_TEAM = 6W5AD72S94;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -468,14 +469,14 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.guoyunhe.naive-hosts";
+				PRODUCT_BUNDLE_IDENTIFIER = me.guoyunhe.NaiveHosts;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
-		BC0548F62BA1A47C0092BB2F /* Debug */ = {
+		BC671B2E2BA1AAD400F9E4B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -486,15 +487,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.guoyunhe.naive-hostsTests";
+				PRODUCT_BUNDLE_IDENTIFIER = me.guoyunhe.NaiveHostsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/naive-hosts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/naive-hosts";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NaiveHosts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NaiveHosts";
 			};
 			name = Debug;
 		};
-		BC0548F72BA1A47C0092BB2F /* Release */ = {
+		BC671B2F2BA1AAD400F9E4B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -505,15 +506,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.guoyunhe.naive-hostsTests";
+				PRODUCT_BUNDLE_IDENTIFIER = me.guoyunhe.NaiveHostsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/naive-hosts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/naive-hosts";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NaiveHosts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NaiveHosts";
 			};
 			name = Release;
 		};
-		BC0548F92BA1A47C0092BB2F /* Debug */ = {
+		BC671B312BA1AAD400F9E4B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -522,15 +523,15 @@
 				DEVELOPMENT_TEAM = 6W5AD72S94;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.guoyunhe.naive-hostsUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = me.guoyunhe.NaiveHostsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "naive-hosts";
+				TEST_TARGET_NAME = NaiveHosts;
 			};
 			name = Debug;
 		};
-		BC0548FA2BA1A47C0092BB2F /* Release */ = {
+		BC671B322BA1AAD400F9E4B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -539,54 +540,54 @@
 				DEVELOPMENT_TEAM = 6W5AD72S94;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.guoyunhe.naive-hostsUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = me.guoyunhe.NaiveHostsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "naive-hosts";
+				TEST_TARGET_NAME = NaiveHosts;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BC0548C62BA1A47B0092BB2F /* Build configuration list for PBXProject "naive-hosts" */ = {
+		BC671AFE2BA1AAD400F9E4B2 /* Build configuration list for PBXProject "NaiveHosts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BC0548F02BA1A47C0092BB2F /* Debug */,
-				BC0548F12BA1A47C0092BB2F /* Release */,
+				BC671B282BA1AAD400F9E4B2 /* Debug */,
+				BC671B292BA1AAD400F9E4B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BC0548F22BA1A47C0092BB2F /* Build configuration list for PBXNativeTarget "naive-hosts" */ = {
+		BC671B2A2BA1AAD400F9E4B2 /* Build configuration list for PBXNativeTarget "NaiveHosts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BC0548F32BA1A47C0092BB2F /* Debug */,
-				BC0548F42BA1A47C0092BB2F /* Release */,
+				BC671B2B2BA1AAD400F9E4B2 /* Debug */,
+				BC671B2C2BA1AAD400F9E4B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BC0548F52BA1A47C0092BB2F /* Build configuration list for PBXNativeTarget "naive-hostsTests" */ = {
+		BC671B2D2BA1AAD400F9E4B2 /* Build configuration list for PBXNativeTarget "NaiveHostsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BC0548F62BA1A47C0092BB2F /* Debug */,
-				BC0548F72BA1A47C0092BB2F /* Release */,
+				BC671B2E2BA1AAD400F9E4B2 /* Debug */,
+				BC671B2F2BA1AAD400F9E4B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BC0548F82BA1A47C0092BB2F /* Build configuration list for PBXNativeTarget "naive-hostsUITests" */ = {
+		BC671B302BA1AAD400F9E4B2 /* Build configuration list for PBXNativeTarget "NaiveHostsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BC0548F92BA1A47C0092BB2F /* Debug */,
-				BC0548FA2BA1A47C0092BB2F /* Release */,
+				BC671B312BA1AAD400F9E4B2 /* Debug */,
+				BC671B322BA1AAD400F9E4B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BC0548C32BA1A47B0092BB2F /* Project object */;
+	rootObject = BC671AFB2BA1AAD400F9E4B2 /* Project object */;
 }

@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  naive-hosts
+//  NaiveHosts
 //
 //  Created by Guo Yunhe on 2024/3/13.
 //

@@ -1,13 +1,13 @@
 //
-//  naive_hostsUITestsLaunchTests.swift
-//  naive-hostsUITests
+//  NaiveHostsUITestsLaunchTests.swift
+//  NaiveHostsUITests
 //
 //  Created by Guo Yunhe on 2024/3/13.
 //
 
 import XCTest
 
-final class naive_hostsUITestsLaunchTests: XCTestCase {
+final class NaiveHostsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

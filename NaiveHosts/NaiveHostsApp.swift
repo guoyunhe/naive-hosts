@@ -1,6 +1,6 @@
 //
-//  naive_hostsApp.swift
-//  naive-hosts
+//  NaiveHostsApp.swift
+//  NaiveHosts
 //
 //  Created by Guo Yunhe on 2024/3/13.
 //
@@ -9,7 +9,7 @@ import SwiftUI
 import SwiftData
 
 @main
-struct naive_hostsApp: App {
+struct NaiveHostsApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
